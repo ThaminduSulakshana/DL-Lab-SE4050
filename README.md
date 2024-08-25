@@ -3,8 +3,8 @@ This repository contains continuous assessment labs for the SE4050 - Deep Learni
 
 ## Repository Structure
 
-- **lab-1**
-  [`IT21206078_lab1.ipynb`](https://github.com/ThaminduSulakshana/DL-Lab-IT21206078/blob/172ac6f127acedebba6a18e5697156fa375e45d7/lab-1/IT21206078_lab1.ipynb)
+- lab-1
+  - [`IT21206078_lab1.ipynb`](https://github.com/ThaminduSulakshana/DL-Lab-IT21206078/blob/172ac6f127acedebba6a18e5697156fa375e45d7/lab-1/IT21206078_lab1.ipynb)
   - [`IT21206078_lab1_Task_2_.ipynb`](https://github.com/ThaminduSulakshana/DL-Lab-IT21206078/blob/172ac6f127acedebba6a18e5697156fa375e45d7/lab-1/IT21206078_lab1_Task_2_.ipynb)
   
 - **lab-2**
