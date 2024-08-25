@@ -28,3 +28,8 @@ This repository contains continuous assessment labs for the SE4050 - Deep Learni
 
 Each lab folder contains the necessary code files, data sets, and Jupyter notebooks needed to run the experiments and tasks. Detailed instructions for each lab are provided within the Jupyter notebooks.
 
+
+## License
+
+[MIT License](License)
+
